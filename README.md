@@ -1,7 +1,6 @@
 # About Me
 Hi I'm Alexis... Thats all
->[!IMPORTANT]
->Learning Java!! 
+
 
 # Stats
 
