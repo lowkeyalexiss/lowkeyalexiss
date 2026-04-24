@@ -6,7 +6,7 @@ Hi I'm Alexis... Thats all
 # Stats
 
 
-![lowkeyalexiss's github stats](https://github-readme-stats.vercel.app/api?username=itskagulive&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![lowkeyalexiss's github stats](https://github-readme-stats.vercel.app/api?username=lowkeyalexiss&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 <!--
 Here are some ideas to get you started:
 
