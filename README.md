@@ -9,5 +9,5 @@ All these projects are things that i want to change within minecraft for example
 # Stats
 
 
-![lowkeyalexiss's github stats](https://github-readme-stats.vercel.app/api?username=lowkeyalexiss&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![lowkeyalexiss' github stats](https://github-readme-stats.vercel.app/api?username=lowkeyalexiss&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
